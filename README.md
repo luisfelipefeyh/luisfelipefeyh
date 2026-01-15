@@ -26,7 +26,7 @@
 
 ---
 
-## 🇬🇧 About me
+## 🇺🇸 About me
 
 - 🎓 **Information Systems** student at **UFSC** (Florianópolis, Brazil)
 - 💼 Trainee developer working with **web apps** and **embedded players**
