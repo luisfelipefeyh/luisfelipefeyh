@@ -17,7 +17,6 @@
 
 # Stats:
 <p align="center">
-  <img align="left" src="https://streak-stats.demolab.com/?user=luisfelipefeyh&theme=nightowl&hide_border=false" />
-<img align="middle" src="https://github-readme-stats.shion.dev/api/top-langs/?username=luisfelipefeyh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=luisfelipefeyh&theme=transparent&hide_border=false" />
+<img align="middle" src="https://github-readme-stats.shion.dev/api/top-langs/?username=luisfelipefeyh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
